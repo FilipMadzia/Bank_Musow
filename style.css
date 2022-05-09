@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body
+{
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.main
+{
+    width: 50%;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3px;
+    background-color: #f0f0f0;
+}
+
+#nav_table
+{
+    width: 100%;
+}
+
+#form_table
+{
+    margin: auto;
+    text-align: left;
+}
+
+a
+{
+    color: #000000;
+    text-decoration: none;
+}
